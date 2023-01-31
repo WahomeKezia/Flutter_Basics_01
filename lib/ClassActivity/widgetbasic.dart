@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-// I will be modi
+// Activities 
+// I will be modify this template to add column widges, image widges and possible an animation and routing
+//  I have build a simple
 void main() {
   runApp(const MyApp());
 }
