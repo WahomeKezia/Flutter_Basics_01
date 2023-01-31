@@ -8,4 +8,4 @@
  
   </div>
 Class Activity ,
-In this exercise I have implemented Widgets 
+In this exercise I will create a simple shopping cart type counter to implemenet Flutter basics 
