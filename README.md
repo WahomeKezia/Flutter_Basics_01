@@ -13,5 +13,11 @@ Class Activity
 I created a simple aplication 
 
 Below is the widget tree and the how it looks like 
-Widget tree: <img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.png"/>
+Widget tree:
+<img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.png"/>
+
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.pnge" width="350" alt="accessibility text">
+</p>
 </div>
