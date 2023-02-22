@@ -1,9 +1,21 @@
-import 'package:bloc/bloc.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutterbasics/app.dart';
-import 'package:flutterbasics/blocobserver.dart';
+import 'package:flutter/material.dart';
 
 void main() {
-  Bloc.observer = CounterObserver();
-  runApp(const CounterApp());
+  runApp(
+    MaterialApp(
+      home: Scaffold(
+          backgroundColor: Colors.blueGrey,
+          appBar: AppBar(
+            title: Text('First Project'),
+            backgroundColor: Colors.blueGrey[900],
+          ),
+          body: Center(
+            child: Image(
+              image: NetworkImage(
+                  'https://media.istockphoto.com/id/1176475543/vector/forest-scene-with-aurora.jpg?s=612x612&w=0&k=20&c=ao8xZMIZ-_dHl-ctw5YhJQgpAItFWbCcZWlS70n7_I8='),
+            ),
+          ),
+          ),
+    ),
+  );
 }
