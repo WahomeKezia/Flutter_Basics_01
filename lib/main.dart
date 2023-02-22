@@ -4,11 +4,14 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
+        //change background colour widget
           backgroundColor: Colors.blueGrey,
+//         Appbar widget , with 2 children title and background
           appBar: AppBar(
             title: Text('First Project'),
             backgroundColor: Colors.blueGrey[900],
           ),
+//         center widget which will centre content image
           body: Center(
             child: Image(
               image: NetworkImage(
