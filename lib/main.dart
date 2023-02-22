@@ -24,4 +24,4 @@ void main() {
 }
 
 // Note , adding a state wigdet that will contain the material app will enable the hot reload to work much faster
-//This is because a state widget has a build method which enables the app to reload the recent changes and not the whole app 
+//This is because a state widget has a build method which enables the app to hot reload the recent changes and not the whole app 
