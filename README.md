@@ -7,8 +7,11 @@
 
  
   </div>
-Class Activity ,
+  
+Class Activity
+<div>
 I created a simple aplication 
 
 Below is the widget tree and the how it looks like 
 Widget tree: <img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.png"/>
+</div>
