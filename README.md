@@ -8,4 +8,3 @@
  
   </div>
 Class Activity ,
-In this exercise I will create a counter to implemenet Flutter basics 
