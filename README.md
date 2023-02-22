@@ -11,7 +11,7 @@
 Class Activity
 
 <div>
-<p>I created a simple aplication applying color , image and text widgets</p>
+<p>I created a simple aplication applying color , image and text widgets inside a scaffold</p>
 <p> I have also uploaded the wigdet tree layout , alternatively find it here : https://lucid.app/lucidchart/81cbf7fd-f9f1-420d-b64d-591d1463508b/edit?view_items=PpyzqlxVpXb3&invitationId=inv_b5684f69-d6cd-4e02-b20c-955d0375c05d </p> 
 <img src"C:\Users\Hp\Pictures\Screenshots\Screenshot_20230222_031758.png" width="250" >
 </div>
