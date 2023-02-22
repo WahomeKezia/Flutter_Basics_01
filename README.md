@@ -9,15 +9,9 @@
   </div>
   
 Class Activity
+
 <div>
-I created a simple aplication 
+I created a simple aplication applying color , image and text widgets
+I have also uploaded the wigdet tree layout , alternatively find it here : https://lucid.app/lucidchart/81cbf7fd-f9f1-420d-b64d-591d1463508b/edit?view_items=PpyzqlxVpXb3&invitationId=inv_b5684f69-d6cd-4e02-b20c-955d0375c05d 
 
-Below is the widget tree and the how it looks like 
-Widget tree:
-<img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.png"/>
-
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="C:\Users\Hp\Downloads\WidgetTree_FlutterProject01.pnge" width="350" alt="accessibility text">
-</p>
 </div>
